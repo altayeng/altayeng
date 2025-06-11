@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Swift, Python, .NET, C++, Microservices**
 
-- ⚡ ** Built with ❤️, tested with ❤️ **
+- ⚡  Built with ❤️, tested with ❤️ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
