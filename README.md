@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Altay</h1>
 <h3 align="center">MSc Backend Developer</h3>
 
-- 🔭 I’m currently working on [S3M Security at Miami, USA](https://s3msecurity.com/)
+- 🔭 I’m currently working on [S3M Security, Miami, USA](https://s3msecurity.com/)
 
 - 💬 Ask me about **Swift, Python, .NET, C++, Microservices**
 
-- ⚡ Built with ❤️, tested with ❤️**
+- ⚡ ** Built with ❤️, tested with ❤️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
