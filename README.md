@@ -12,14 +12,20 @@
 <a href="https://linkedin.com/in/altaykrl" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altaykrl" height="30" width="40" />
 </a>
+  
 <a href="https://medium.com/@altaykrl" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@altaykrl" height="30" width="40" />
 </a>
+
 <a href="https://twitter.com/altykrl" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="altaykrl" height="30" width="40" />
 </a>
+
 <a href="https://altaykrl.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="altaykrl.com" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="altaykrl.com" height="30" width="40" />
+</a>
+<a href="https://apps.apple.com/us/developer/altay-kirli/id1789724961" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="App Store" height="30" width="30" />
 </a>
 </p>
 
