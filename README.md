@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Altay</h1>
 <h3 align="center">MSc Software Engineer</h3>
 
-- 🔭 I’m currently working on [S3M Security, Miami, USA](https://s3msecurity.com/)  
 - 💬 Ask me about **Swift, Python, .NET, C++, Microservices**  
 - ⚡ Built with ❤️, tested with ❤️  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://apps.apple.com/us/developer/altay-kirli/id1789724961" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" alt="App Store" height="30" width="30" /></a>
+<a href="https://apps.apple.com/us/developer/altay-kirli/id1789724961" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/960px-App_Store_%28iOS%29.svg.png" alt="App Store" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/altaykrl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/altykrl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://altaykrl.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="Website" height="30" width="40" /></a>
